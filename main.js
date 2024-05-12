@@ -59,5 +59,5 @@ listaDeTeclas [0].onclick = tocaSomPuff;
 listaDeTeclas [0].onclick = tocaSomSplash;
 listaDeTeclas [0].onclick = tocaSomPsh;
 listaDeTeclas [0].onclick = tocaSomTim;
-listaDeTeclas [0].onclick = tocaSomTom;
+listaDeTeclas [0].onclick = tocaSomTom; /*
 
